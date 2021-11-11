@@ -1,7 +1,7 @@
 ### Olá caros  👋
 
 
-👨🏻‍💻 SysAdmin Unix/Linux | DevOps 👨🏻‍💻
+👨🏻‍💻 SysAdmin Unix/Linux | Infrastructure | DevOps | Security | Automation 👨🏻‍💻
 
 - 🔭 Atualmente estou trabalhando com alguns projetos paralelos visando automação de processos.
 - 🌱 Estou aprendendo e melhorando minhas habilidades com python e shell script e alguns processos com desenvolvimento web em PHP com SQL. 
